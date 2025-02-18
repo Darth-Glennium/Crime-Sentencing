@@ -17,7 +17,7 @@ Before running the app, make sure you have Python 3.7 or higher installed. Youâ€
 ### Installation and Running the App
 
 1. **Clone this repository**:
-    git clone https://github.com/your-username/Kenyan-Crime-Sentencing.git
+    git clone https://github.com/Darth-Glennium/Kenyan-Crime-Sentencing.git
 2. **Navigate into the project directory**:
     cd Kenyan-Crime-Sentencing
 3.**Create a virtual environment (optional but recommended)**:
